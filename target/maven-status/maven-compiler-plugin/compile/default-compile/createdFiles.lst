@@ -1,0 +1,17 @@
+com\convocraft\chatroom\Chatroom.class
+com\convocraft\cmdManager\existingRoom.class
+com\convocraft\cmdManager\existingRoomSender.class
+com\convocraft\chatroomManager\User.class
+com\convocraft\chatroom\ActiveMQConnection.class
+com\convocraft\cmdManager\TerminalInteraction.class
+com\convocraft\App.class
+com\convocraft\cmdManager\TerminalInteraction2.class
+com\convocraft\chatroomManager\ActiveMQConnectionManager.class
+com\convocraft\MessageSender.class
+com\convocraft\cmdManager\newRoomSender.class
+com\convocraft\cmdManager\newRoom.class
+com\convocraft\MessageReceiver.class
+com\convocraft\commandProcessor\commandProcessor.class
+com\convocraft\commandProcessor\profanityFilter.class
+com\convocraft\chatroomManager\Admin.class
+com\convocraft\chatroom\Poll.class
