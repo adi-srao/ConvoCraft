@@ -1,7 +1,7 @@
 # ConvoCraft
 
 Small chatroom/messaging project with a native profanity filter component.
-
+Developed by Aditya S Rao (IMT2023061) and Mannat Bagga (IMT2023071)
 ---
 
 ## Quick summary
