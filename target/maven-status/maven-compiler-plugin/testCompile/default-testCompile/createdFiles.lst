@@ -1,1 +1,4 @@
-com\convocraft\AppTest.class
+com/convocraft/GeneratedTestsSuite$SystemTests.class
+com/convocraft/GeneratedTestsSuite.class
+com/convocraft/GeneratedTestsSuite$IntegrationTests.class
+com/convocraft/GeneratedTestsSuite$UnitTests.class
