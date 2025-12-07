@@ -1,7 +1,6 @@
 # ConvoCraft
 
 Small chatroom/messaging project with a native profanity filter component.
-Developed by Aditya S Rao (IMT2023061) and Mannat Bagga (IMT2023071)
 ---
 
 ## Quick summary
@@ -11,7 +10,7 @@ Developed by Aditya S Rao (IMT2023061) and Mannat Bagga (IMT2023071)
 - Native component: C++ profanityFilter (produces `.so` / `.dll`) under `src/main/cpp`  
 - Tests: JUnit 4 suite at `src/test/java/com/convocraft/GeneratedTestsSuite.java` (runs Unit, Integration, System style checks)
 - Resources: `src/main/resources/badWords.txt`, `profanityFilter.so` and `profanityFilter.dll`
-
+- Developed by Aditya S Rao (IMT2023061) and Mannat Bagga (IMT2023071)
 ---
 
 ## Prerequisites
